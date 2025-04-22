@@ -17,7 +17,9 @@ Despite only a single epoch each, we achieve:
 <p align="center">
   <img src="output.png" alt="Performance dashboard" width="800"/>
 </p>
-
+<p align="center">
+  <vid src="loop.mp4" alt="loop" width="800"/>
+</p>
 ---
 
 ## 📁 Repository Structure
