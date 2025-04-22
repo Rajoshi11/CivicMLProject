@@ -19,7 +19,10 @@ Despite only a single epoch each, we achieve:
 </p>
 
 ---
-![loop](https://github.com/user-attachments/assets/f8bf002f-2637-4e61-8820-47964eee4e0a)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f8bf002f-2637-4e61-8820-47964eee4e0a" alt="loop" />
+</div>
 
 ---
 
