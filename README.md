@@ -20,9 +20,8 @@ Despite only a single epoch each, we achieve:
 
 ---
 
-<video src="loop.mp4" autoplay loop muted playsinline controls width="600">
-  Your browser does not support the <code>video</code> tag.
-</video>
+ffmpeg -i loop.mp4 -vf "fps=15,scale=600:-1:flags=lanczos" -y loop.gif
+![Demo loop animation](loop.gif)
 
 ---
 
