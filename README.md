@@ -42,6 +42,18 @@ The notebook will: 1. Bootstrap the environment (pin NumPy, HF libs).
 
 Total runtime on a free‑tier T4 GPU: ≈ 25 minutes.
 
+# requirements.txt (Optional)
+```
+numpy==1.26.4
+transformers==4.41.2
+datasets>=2.19.0
+accelerate
+evaluate
+scikit-learn
+matplotlib
+pandas
+```
+
 # Results & Interpretation
 Accuracy retention: Student keeps ~98.9 % of teacher accuracy.
 Parameter reduction: Student is ~38.8 % smaller (66 955 010 vs 109 483 778).
