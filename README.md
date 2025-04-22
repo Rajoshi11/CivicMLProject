@@ -35,6 +35,7 @@ Open RujutaCivicML_clean.ipynb in Jupyter or Colab.
 Select Run ▶ Run All Cells. (Restart after running the first cell)
 
 The notebook will: 
+
 1. Bootstrap the environment (pin NumPy, HF libs).
 
 2. Fine‑tune BERT‑base for 1 epoch.
