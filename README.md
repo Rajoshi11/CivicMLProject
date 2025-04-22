@@ -26,6 +26,7 @@ Despite only a single epoch each, we achieve:
 .
 ├── RujutaCivicML.ipynb            ← solution notebook
 ├── knowledge_distillation_performance.png
+├── loop.mp4
 └── README.md                      ← this file
 ```
 
