@@ -20,7 +20,6 @@ Despite only a single epoch each, we achieve:
 
 ---
 
-ffmpeg -i loop.mp4 -vf "fps=15,scale=600:-1:flags=lanczos" -y loop.gif
 ![Demo loop animation](loop.gif)
 
 ---
